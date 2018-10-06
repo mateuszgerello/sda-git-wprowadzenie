@@ -6,7 +6,7 @@ public class Main {
         System.out.println(""+getMsg());
     }
     private static String getMsg(){
-        return "testujemy GITa";
+        return "testujemy GITa 2";
 
     }
 
