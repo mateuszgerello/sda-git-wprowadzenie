@@ -3,11 +3,10 @@ package pl.sda;
 public class Main {
 
     public static void main(String ... args) {
-        System.out.println(args.length+getMsg());
-
+        System.out.println("dddd"+getMsg());
     }
     private static String getMsg(){
-        return "testujemy GITa 2";
+        return "testujemy GITa";
 
     }
 
